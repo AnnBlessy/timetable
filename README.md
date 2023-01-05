@@ -85,3 +85,7 @@ Execute the program
 </html>
 ```
 # OUPUT
+![Empatable](/images/timetable.png)
+
+# RESULT
+Timetable created successfully with the help of HTML. 
